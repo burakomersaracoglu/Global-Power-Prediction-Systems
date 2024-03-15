@@ -1,6 +1,8 @@
 ![Welcome](Welcome.png)
 # Global Power Prediction Systems
 Global Power Prediction Systems (GP2S/G2PS/GPPS) is an open science expert/event/data-driven, fact-based, worldwide real-time geographic information systems (GIS) based web and device application that runs on all devices like desktops, laptops, and smartphones to predict all items of power consumption and generation at almost any time horizon and interval units in any geographical, administrative and power grid decomposition units. 
+# YouTube
+https://www.youtube.com/playlist?list=PLrR_fQdvugpMY3Zjc52dQgt-V4UXcEsn-
 # Academic Publications:
 Please visit 
 https://doi.org/10.30521/jes.1021838
